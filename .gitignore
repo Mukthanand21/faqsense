@@ -1,0 +1,56 @@
+# ======================
+# Python
+# ======================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# ======================
+# Virtual Environments
+# ======================
+venv/
+.env/
+.venv/
+
+# ======================
+# Environment Variables
+# ======================
+.env
+*.env
+
+# ======================
+# Streamlit
+# ======================
+.streamlit/secrets.toml
+.streamlit/.cache/
+
+# ======================
+# OS / Editor Files
+# ======================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ======================
+# Logs
+# ======================
+*.log
+
+# ======================
+# Model / Cache Files
+# ======================
+*.faiss
+*.index
+*.pkl
+*.pickle
+
+# ======================
+# Temporary / Runtime
+# ======================
+temp/
+tmp/
