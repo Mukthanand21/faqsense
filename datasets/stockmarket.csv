@@ -1,0 +1,147 @@
+question,answer
+What is the stock market,The stock market is a platform where shares of publicly listed companies are bought and sold.
+Why do companies issue shares,Companies issue shares to raise capital for expansion growth and operations.
+What is a share,A share represents partial ownership in a company.
+What is equity ,equity represents ownership stake held by shareholders in a company.
+What is a stock exchange,A stock exchange is a regulated marketplace for trading securities.
+What is NSE,NSE is the National Stock Exchange of India where securities are traded electronically.
+What is BSE,BSE is the Bombay Stock Exchange one of the oldest stock exchanges in the world.
+What is a listed company,A listed company is a company whose shares are traded on a stock exchange.
+What is an IPO,An Initial Public Offering is when a company offers shares to the public for the first time.
+What is a primary market,Primary market is where new securities are issued.
+What is a secondary market,Secondary market is where existing securities are traded.
+What is market capitalization,Market capitalization is total value of a company’s outstanding shares.
+What is large cap stock,Large cap stocks belong to companies with large market capitalization.
+What is mid cap stock,Mid cap stocks are companies with moderate market capitalization.
+What is small cap stock,Small cap stocks belong to smaller companies with high growth potential.
+What is a bull market,A bull market indicates rising stock prices and positive investor sentiment.
+What is a bear market,A bear market indicates falling stock prices and negative sentiment.
+What is volatility,Volatility measures how much stock prices fluctuate.
+What is a stock index,A stock index tracks performance of a group of stocks.
+What is NIFTY 50,NIFTY 50 represents top 50 companies listed on NSE.
+What is SENSEX,SENSEX represents 30 major companies listed on BSE.
+What is a trading account,A trading account is used to buy and sell securities.
+What is a demat account,A demat account holds securities in electronic form.
+What is SEBI,SEBI is the regulatory authority for securities markets in India.
+What is brokerage,Brokerage is a fee charged for executing trades.
+What is a market order,A market order buys or sells at current market price.
+What is a limit order,A limit order executes trade at a specified price.
+What is a stop loss order,A stop loss order limits losses by selling at a predefined price.
+What is intraday trading,Intraday trading involves buying and selling on the same day.
+What is delivery trading,Delivery trading involves holding stocks beyond one day.
+What is long term investment,Long term investment involves holding stocks for years.
+What is short term investment,Short term investment involves holding stocks for short periods.
+What is technical analysis,Technical analysis studies price charts and patterns.
+What is fundamental analysis,Fundamental analysis evaluates company financials and performance.
+What is EPS,Earnings Per Share indicates company profitability per share.
+What is PE ratio,Price to Earnings ratio measures stock valuation.
+What is dividend,A dividend is profit distributed to shareholders.
+What is dividend yield,Dividend yield shows dividend return relative to price.
+What is bonus share,Bonus shares are additional shares issued to shareholders.
+What is stock split,A stock split increases number of shares by reducing price.
+What is rights issue,Rights issue offers existing shareholders discounted shares.
+What is face value,Face value is original value of a share.
+What is book value,Book value is net asset value per share.
+What is ROE,Return on Equity measures profitability relative to equity.
+What is ROA,Return on Assets measures efficiency of asset usage.
+What is volume in trading,Volume indicates number of shares traded.
+What is liquidity in stocks,Liquidity measures ease of buying or selling stocks.
+What is bid price,Bid price is highest price a buyer is willing to pay.
+What is ask price,Ask price is lowest price seller is willing to accept.
+What is spread,Spread is difference between bid and ask price.
+What is circuit breaker,Circuit breakers halt trading to control volatility.
+What is upper circuit,Upper circuit limits maximum price rise in a day.
+What is lower circuit,Lower circuit limits maximum price fall in a day.
+What is F&O,Futures and Options are derivative instruments.
+What is futures contract,A futures contract obligates buying or selling at future date.
+What is options contract,Options give right but not obligation to trade.
+What is call option,Call option gives right to buy at fixed price.
+What is put option,Put option gives right to sell at fixed price.
+What is strike price,Strike price is agreed price in option contract.
+What is expiry date,Expiry date is last day of contract validity.
+What is open interest,Open interest shows total active contracts.
+What is margin,Margin is collateral required for trading.
+What is leverage,Leverage allows trading with borrowed funds.
+What is hedging,Hedging reduces risk using derivatives.
+What is speculation,Speculation involves high risk short term trading.
+What is arbitrage,Arbitrage exploits price differences across markets.
+What is insider trading,Insider trading involves using non public information.
+What is blue chip stock,Blue chip stocks belong to stable reputed companies.
+What is penny stock,Penny stocks trade at very low prices.
+What is growth stock,Growth stocks belong to fast growing companies.
+What is value stock,Value stocks trade below intrinsic value.
+What is defensive stock,Defensive stocks perform well during downturns.
+What is cyclical stock,Cyclical stocks depend on economic cycles.
+What is sectoral index,Sectoral index tracks specific industry stocks.
+What is market sentiment,Market sentiment reflects investor emotions.
+What is fundamental ratio,Fundamental ratios evaluate company performance.
+What is debt equity ratio,Debt equity ratio measures financial leverage.
+What is cash flow statement,Cash flow statement shows inflows and outflows.
+What is balance sheet,Balance sheet shows assets liabilities and equity.
+What is income statement,Income statement shows revenue and profit.
+What is quarterly result,Quarterly result shows company performance every quarter.
+What is annual report,Annual report summarizes yearly performance.
+What is guidance in stocks,Guidance is company future outlook.
+What is promoter holding,Promoter holding shows ownership by promoters.
+What is FII,FII are foreign institutional investors.
+What is DII,DII are domestic institutional investors.
+What is retail investor,Retail investors are individual investors.
+What is market depth,Market depth shows buy and sell orders.
+What is order book,Order book lists all pending orders.
+What is stop loss hunting,Stop loss hunting triggers mass sell orders.
+What is averaging, Averaging reduces cost by buying more at lower price.
+What is SIP in stocks,SIP allows periodic investment in stocks.
+What is ETF,ETF tracks an index and trades like stock.
+What is index fund,Index fund replicates index performance.
+What is mutual fund,Mutual fund pools investor money.
+What is NAV,NAV is per unit value of fund.
+What is portfolio,Portfolio is collection of investments.
+What is diversification,Diversification spreads investment risk.
+What is rebalancing,Rebalancing adjusts portfolio allocation.
+What is alpha,Alpha measures excess return.
+What is beta,Beta measures stock volatility relative to market.
+What is correlation,Correlation shows relationship between assets.
+What is market correction,Market correction is temporary decline.
+What is crash,A crash is sudden severe market fall.
+What is rally,A rally is rapid price increase.
+What is resistance,Resistance is price level preventing rise.
+What is support,Support is price level preventing fall.
+What is trend,Trend shows price direction.
+What is breakout,Breakout moves price beyond resistance.
+What is breakdown,Breakdown moves price below support.
+What is candlestick,Candlestick shows price movement visually.
+What is moving average,Moving average smoothens price trends.
+What is RSI,RSI measures momentum.
+What is MACD,MACD tracks trend changes.
+What is volume indicator,Volume indicator shows trading activity.
+What is financial risk,Financial risk refers to capital loss.
+What is market risk,Market risk affects entire market.
+What is stock selection,Stock selection identifies good stocks.
+What is due diligence,Due diligence is detailed analysis.
+What is long position,Long position profits from price rise.
+What is short selling,Short selling profits from price fall.
+What is buyback,Buyback is company repurchasing shares.
+What is delisting,Delisting removes stock from exchange.
+What is corporate action,Corporate actions impact shareholders.
+What is taxation on stocks,Stock profits are taxed as capital gains.
+What is STCG,Short term capital gain tax applies to short holdings.
+What is LTCG,Long term capital gain tax applies to long holdings.
+What is settlement cycle,Settlement cycle completes trade processing.
+What is T+1 settlement,Settlement occurs one day after trade.
+What is investor education,Investor education improves awareness.
+What is financial discipline,Financial discipline ensures stable investing.
+What is stock market regulation,Regulation ensures fair trading.
+What is algo trading,Algo trading uses automated programs.
+What is high frequency trading,HFT executes large orders quickly.
+What is trading psychology,Trading psychology impacts decisions.
+What is fear and greed index,It measures market emotions.
+What is market manipulation,Market manipulation distorts prices.
+What is pump and dump,Artificially inflating stock prices.
+What is smart money,Smart money refers to institutional investors.
+What is retail participation,Retail participation shows individual involvement.
+What is order execution,Order execution completes trades.
+What is slippage,Slippage occurs when price changes unexpectedly.
+What is stop limit order,Stop limit combines stop loss and limit.
+What is portfolio risk,Portfolio risk reflects overall exposure.
+What is return potential,Return potential indicates profit possibility.
+What is wealth creation,Wealth creation grows capital over time.
