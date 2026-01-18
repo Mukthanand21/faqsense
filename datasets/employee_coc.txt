@@ -1,22 +1,125 @@
-EMPLOYEE CODE OF CONDUCT
+Q: What is the purpose of the Employee Code of Conduct
+A: The Employee Code of Conduct defines ethical standards professional behavior and responsibilities expected of all employees.
 
-1. PURPOSE
-The purpose of this Code of Conduct is to define expected ethical behavior and professional standards for all employees.
+Q: Who does the Employee Code of Conduct apply to
+A: The Code of Conduct applies to all employees interns trainees contractors consultants and third-party representatives.
 
-2. PROFESSIONAL BEHAVIOR
-Employees must act with integrity, honesty, and respect toward colleagues, clients, and stakeholders.
+Q: What behavior is expected from employees
+A: Employees are expected to act with integrity honesty professionalism and respect at all times.
 
-3. CONFLICT OF INTEREST
-Employees must avoid situations where personal interests conflict with organizational interests.
+Q: What does professional conduct mean
+A: Professional conduct includes respectful communication accountability and responsible behavior in the workplace.
 
-4. CONFIDENTIALITY
-All confidential company and client information must be protected and not disclosed without authorization.
+Q: Are employees required to follow company policies
+A: Employees must comply with all organizational policies procedures and guidelines.
 
-5. USE OF COMPANY ASSETS
-Company resources must be used responsibly and strictly for official purposes.
+Q: What is the organization’s stance on ethics
+A: The organization promotes ethical behavior and zero tolerance for unethical practices.
 
-6. ANTI-HARASSMENT
-The organization enforces zero tolerance toward harassment, discrimination, or abusive behavior.
+Q: What is a conflict of interest
+A: A conflict of interest occurs when personal interests interfere with organizational responsibilities.
 
-7. COMPLIANCE
-Failure to comply with this Code may result in disciplinary or legal action.
+Q: Are employees required to disclose conflicts of interest
+A: Employees must promptly disclose any actual or potential conflicts of interest.
+
+Q: What is the policy on confidentiality
+A: Employees must protect confidential company and client information from unauthorized disclosure.
+
+Q: Can confidential information be shared externally
+A: Confidential information must not be shared externally without proper authorization.
+
+Q: How should company information be handled
+A: Company information must be used responsibly and only for legitimate business purposes.
+
+Q: What is the policy on use of company assets
+A: Company assets must be used responsibly and strictly for official purposes.
+
+Q: Is misuse of company resources allowed
+A: Misuse of company resources is strictly prohibited.
+
+Q: What is the policy on workplace harassment
+A: The organization enforces zero tolerance toward harassment or discrimination of any kind.
+
+Q: What types of harassment are prohibited
+A: Verbal physical sexual and psychological harassment are strictly prohibited.
+
+Q: How can harassment be reported
+A: Harassment complaints may be reported through HR or designated internal committees.
+
+Q: Will harassment complaints be handled confidentially
+A: Complaints are handled confidentially to the extent possible.
+
+Q: What is the organization’s policy on discrimination
+A: Discrimination based on gender caste religion race age or disability is prohibited.
+
+Q: What is expected regarding workplace behavior
+A: Employees must maintain a respectful inclusive and safe workplace environment.
+
+Q: What is the policy on workplace violence
+A: Any form of workplace violence or threatening behavior is strictly prohibited.
+
+Q: What is the organization’s stance on alcohol and drugs
+A: Use or possession of alcohol or illegal drugs during work hours is prohibited.
+
+Q: What is the policy on health and safety
+A: Employees must follow health and safety guidelines to ensure a safe workplace.
+
+Q: Are employees responsible for reporting safety hazards
+A: Employees must report unsafe conditions or hazards immediately.
+
+Q: What is the policy on social media usage
+A: Employees must use social media responsibly and avoid damaging the organization’s reputation.
+
+Q: Can employees represent the company publicly
+A: Only authorized employees may represent the organization publicly.
+
+Q: What is the policy on gifts and hospitality
+A: Employees must not accept gifts or favors that could influence business decisions.
+
+Q: What is the policy on bribery and corruption
+A: Bribery corruption and unethical inducements are strictly prohibited.
+
+Q: What is the policy on compliance with laws
+A: Employees must comply with all applicable laws and regulations.
+
+Q: What is the policy on data privacy
+A: Employees must protect personal and organizational data from misuse or unauthorized access.
+
+Q: What is expected regarding IT and system usage
+A: IT systems must be used securely responsibly and in accordance with company policies.
+
+Q: What is the policy on email and communication
+A: Official communication must be professional appropriate and compliant with company standards.
+
+Q: What is expected during working hours
+A: Employees must remain productive and focused on official duties during working hours.
+
+Q: What is the policy on remote work conduct
+A: Employees working remotely must maintain professionalism productivity and data security.
+
+Q: What is the organization’s disciplinary policy
+A: Violations of the Code may result in disciplinary action.
+
+Q: What actions can lead to disciplinary measures
+A: Misconduct policy violations or unethical behavior may lead to disciplinary action.
+
+Q: What is the procedure for reporting violations
+A: Violations may be reported through HR management or designated reporting channels.
+
+Q: Are employees protected from retaliation
+A: Employees reporting concerns in good faith are protected from retaliation.
+
+Q: What is the whistleblower policy
+A: The whistleblower policy allows reporting of unethical practices without fear.
+
+Q: What is expected regarding cooperation during investigations
+A: Employees must cooperate fully during internal investigations.
+
+Q: What is the responsibility of managers under this Code
+A: Managers must lead by example and enforce the Code of Conduct.
+
+Q: Can the Code of Conduct be updated
+A: The Code of Conduct may be revised periodically as required.
+
+Q: Where can employees access the Code of Conduct
+A: The Code of Conduct is available on the company portal or official repository.
