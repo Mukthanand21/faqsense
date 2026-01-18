@@ -84,28 +84,86 @@ with st.sidebar:
 if section == "🏠 Home":
     st.header("Welcome to FAQSense 👋")
 
-    st.markdown(
-        """
-### How to use FAQSense
+    st.markdown("""
+    ### What is FAQSense?
 
-#### 🔹 Option 1: FAQ Categories
-1. Go to **FAQ Categories**
-2. Select a category (auto-loaded from datasets)
-3. Ask your question
+    FAQSense is a smart question-answering app that helps you find **accurate answers**
+    from **trusted FAQ documents**, instead of searching long web pages.
 
-#### 🔹 Option 2: Upload FAQs
-1. Upload your CSV / JSON / TXT file
-2. Ask questions from your own dataset
+    It does **not guess answers** — it only answers from the data that is already available.
 
----
+    ---
 
-### Why FAQSense?
-- Uses **Retrieval-Augmented Generation (RAG)**
-- Answers come **only from your data**
-- No hallucinations
-- Fast & accurate
-"""
-    )
+    ### Why FAQs are grouped by category 📂
+
+    Large organizations (like banks, colleges, or companies) have **thousands of FAQs**.
+
+    To keep answers:
+    - **Accurate**
+    - **Relevant**
+    - **Fast**
+
+    we group FAQs into **specific categories** such as:
+    - SBI (banking FAQs)
+    - Education
+    - General examples
+
+    Each category has its **own FAQ dataset**.
+
+    This means:
+    - Banking questions are answered only from banking FAQs
+    - Education questions are answered only from education FAQs
+
+    ✔ No confusion  
+    ✔ No mixed answers  
+    ✔ No wrong information  
+
+    ---
+
+    ### How this helps you 🧠
+
+    When you select a category:
+    1. FAQSense loads only that category’s data
+    2. Your question is matched **only** with relevant FAQs
+    3. The system finds the **closest matching answers**
+    4. AI explains the answer in simple language
+
+    This makes the system:
+    - More **trustworthy**
+    - More **focused**
+    - More **useful in real life**
+
+    ---
+
+    ### How to use FAQSense 🚀
+
+    #### Option 1: Use FAQ Categories
+    1. Open **FAQ Categories** from the sidebar
+    2. Select a category (example: SBI)
+    3. Ask your question  
+    ✔ Answers come only from that category
+
+    #### Option 2: Upload Your Own FAQs
+    1. Open **Upload FAQs**
+    2. Upload a CSV / JSON / TXT FAQ file
+    3. Ask questions based on your uploaded data  
+    ✔ Perfect for personal or custom datasets
+
+    ---
+
+    ### Who can use this?
+
+    - 🏦 Banks & customer support teams  
+    - 🎓 Students & teachers  
+    - 🏢 Companies with internal FAQs  
+    - 👨‍💻 Developers testing RAG systems  
+
+    ---
+
+    💡 **FAQSense acts like a smart librarian**  
+    It first finds the right information, then explains it clearly — without guessing.
+    """)
+
 
 # ===============================
 # FAQ CATEGORIES MODE
