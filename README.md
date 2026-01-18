@@ -1,3 +1,11 @@
+## 🚀 Live Demo
+
+👉 **FAQSense Live App:**  
+https://faqsense.streamlit.app/
+
+The application is deployed on Streamlit Cloud and demonstrates a Retrieval-Augmented Generation (RAG) based FAQ assistant.
+
+
 # FAQSense: RAG-powered FAQ Assistant
 
 A domain-agnostic FAQ system using Retrieval-Augmented Generation (RAG) with Groq API for fast, accurate, and explainable answers.
