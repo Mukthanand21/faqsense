@@ -1,28 +1,134 @@
-HUMAN RESOURCES POLICY MANUAL
+Q: What is the purpose of the HR policy manual
+A: The HR policy manual defines employment standards procedures and guidelines to ensure fairness compliance and consistency across the organization.
 
-1. PURPOSE
-This Human Resources Policy Manual outlines the rules, procedures, and standards governing employment practices to ensure fairness, compliance, and consistency across the organization.
+Q: Who does the HR policy apply to
+A: The HR policy applies to all employees interns trainees contractors consultants and third-party staff of the organization.
 
-2. SCOPE
-This policy applies to all employees, interns, contractors, and consultants employed by the organization.
+Q: What are the organization’s employment principles
+A: The organization follows equal opportunity merit-based hiring and non-discriminatory employment practices.
 
-3. EMPLOYMENT PRACTICES
-All hiring, promotion, and termination decisions shall be based on merit, qualifications, and business requirements without discrimination.
+Q: What is the recruitment policy
+A: Recruitment is conducted based on qualifications experience role requirements and business needs.
 
-4. ATTENDANCE AND WORKING HOURS
-Employees are required to adhere to assigned working hours. Any absence must be communicated and approved through the prescribed process.
+Q: Is background verification mandatory
+A: Background verification is mandatory for all new hires as per company policy.
 
-5. LEAVE MANAGEMENT
-Employees are entitled to various types of leave including casual, sick, earned, and statutory leave, subject to eligibility and approval.
+Q: What is the onboarding process
+A: Onboarding includes documentation submission induction training and role orientation.
 
-6. PERFORMANCE MANAGEMENT
-Employee performance will be evaluated periodically through structured appraisal processes aligned with organizational objectives.
+Q: What are the standard working hours
+A: Working hours are defined by the organization and may vary based on role and department.
 
-7. COMPENSATION AND BENEFITS
-Compensation and benefits shall be administered fairly and reviewed periodically in accordance with company policy.
+Q: Is attendance mandatory
+A: Employees are required to maintain regular attendance and punctuality.
 
-8. DISCIPLINARY ACTION
-Violation of HR policies may result in disciplinary action, including warnings, suspension, or termination.
+Q: How is attendance recorded
+A: Attendance is recorded using company-approved digital or biometric systems.
 
-9. POLICY REVIEW
-This policy shall be reviewed periodically and updated as required.
+Q: How should employees report absence
+A: Employees must inform their manager and apply for leave through the prescribed system.
+
+Q: What types of leave are available
+A: The organization provides casual sick earned maternity paternity and statutory leave.
+
+Q: How is leave approval granted
+A: Leave approval is subject to managerial approval and business requirements.
+
+Q: Can unused leave be carried forward
+A: Unused leave may be carried forward or encashed as per company policy.
+
+Q: What is the probation policy
+A: New employees are placed on probation to assess performance and suitability.
+
+Q: How long is the probation period
+A: The probation period duration is specified in the appointment letter.
+
+Q: What is the confirmation process
+A: Employees are confirmed after successful completion of probation and performance review.
+
+Q: What is the performance management policy
+A: Employee performance is evaluated periodically based on predefined goals and metrics.
+
+Q: How often are performance reviews conducted
+A: Performance reviews are conducted annually or as defined by management.
+
+Q: What is the promotion policy
+A: Promotions are based on performance business needs and management approval.
+
+Q: What is the compensation policy
+A: Compensation is determined based on role responsibility market standards and internal equity.
+
+Q: How are salary revisions handled
+A: Salary revisions are reviewed periodically based on performance and company policy.
+
+Q: What employee benefits are provided
+A: Benefits may include insurance bonuses allowances and statutory benefits.
+
+Q: What is the code of conduct
+A: Employees must maintain professional ethical and respectful behavior at all times.
+
+Q: What is the anti-harassment policy
+A: The organization enforces zero tolerance toward harassment or discrimination.
+
+Q: How can harassment be reported
+A: Complaints can be reported through designated internal committees or HR channels.
+
+Q: What is the grievance redressal policy
+A: Employees may raise grievances through a formal process without fear of retaliation.
+
+Q: What is the disciplinary policy
+A: Disciplinary action may be taken for misconduct or violation of company policies.
+
+Q: What actions may result in disciplinary measures
+A: Misconduct absenteeism policy violations or unethical behavior may attract disciplinary action.
+
+Q: What is the work from home policy
+A: Work from home is permitted only with prior approval and role suitability.
+
+Q: Are employees required to follow IT policies
+A: Employees must comply with all IT and information security policies.
+
+Q: What is the confidentiality policy
+A: Employees must protect confidential company and client information at all times.
+
+Q: Can employees share company data externally
+A: Company data must not be shared externally without proper authorization.
+
+Q: What is the conflict of interest policy
+A: Employees must avoid situations where personal interests conflict with organizational interests.
+
+Q: What is the training and development policy
+A: The organization supports employee development through training and skill enhancement programs.
+
+Q: What is the travel policy
+A: Official travel must comply with approved budgets and reimbursement guidelines.
+
+Q: How are expenses reimbursed
+A: Expenses are reimbursed as per approved expense reimbursement policy.
+
+Q: What is the health and safety policy
+A: The organization is committed to providing a safe and healthy work environment.
+
+Q: Are employees responsible for workplace safety
+A: Employees must follow safety guidelines and report hazards immediately.
+
+Q: What is the exit policy
+A: Employees must follow formal resignation and exit procedures.
+
+Q: What is the notice period policy
+A: Notice period duration is defined in the employment agreement.
+
+Q: Is exit clearance mandatory
+A: Exit clearance is mandatory before final settlement.
+
+Q: What is the final settlement process
+A: Final settlement includes salary dues leave encashment and applicable recoveries.
+
+Q: How is employee personal data handled
+A: Employee personal data is processed securely and confidentially.
+
+Q: Can HR policies be updated
+A: HR policies may be updated periodically based on legal and business requirements.
+
+Q: Where can employees access HR policies
+A: HR policies are available on the company portal or official HR repository.
