@@ -1,0 +1,275 @@
+Q: What is a bank
+A: A bank is a regulated financial institution that accepts deposits from the public, safeguards money, and provides financial services such as loans, payments, and investment products.
+
+Q: What is a savings account
+A: A savings account is a deposit account designed to encourage saving by offering interest on balances while allowing limited withdrawals.
+
+Q: What is a current account
+A: A current account is primarily used by businesses for frequent transactions and usually does not earn interest.
+
+Q: What is a fixed deposit
+A: A fixed deposit is an investment where funds are deposited for a fixed tenure at a predetermined interest rate.
+
+Q: What is a recurring deposit
+A: A recurring deposit allows customers to invest a fixed amount regularly and earn interest over time.
+
+Q: What is net banking
+A: Net banking enables customers to perform banking transactions online through secure bank websites.
+
+Q: What is mobile banking
+A: Mobile banking allows customers to access banking services through mobile applications anytime and anywhere.
+
+Q: What is an ATM
+A: An Automated Teller Machine allows customers to withdraw cash and perform basic banking services without visiting a branch.
+
+Q: What is KYC
+A: Know Your Customer is a regulatory process used to verify customer identity to prevent fraud and money laundering.
+
+Q: Why is KYC important
+A: KYC ensures the authenticity of customers and helps banks comply with legal and regulatory requirements.
+
+Q: What documents are required for KYC
+A: Common KYC documents include proof of identity, proof of address, and recent photographs.
+
+Q: What is a debit card
+A: A debit card allows direct access to funds in a bank account for payments and withdrawals.
+
+Q: What is a credit card
+A: A credit card allows customers to borrow money up to a credit limit and repay it later with interest if unpaid.
+
+Q: What is an overdraft facility
+A: An overdraft facility permits account holders to withdraw more money than their account balance up to an approved limit.
+
+Q: What is a bank statement
+A: A bank statement provides a detailed record of transactions over a specific period.
+
+Q: How can account balance be checked
+A: Account balance can be checked using ATMs, mobile banking, net banking, or by visiting a branch.
+
+Q: What is interest rate
+A: Interest rate is the percentage charged on borrowed funds or earned on deposits.
+
+Q: What is a home loan
+A: A home loan is a long-term loan provided to purchase, construct, or renovate residential property.
+
+Q: What is a personal loan
+A: A personal loan is an unsecured loan provided for personal financial needs without collateral.
+
+Q: What is a car loan
+A: A car loan is a secured loan offered for purchasing vehicles.
+
+Q: What is EMI
+A: Equated Monthly Installment is a fixed payment made monthly to repay a loan.
+
+Q: What is loan tenure
+A: Loan tenure is the duration over which the loan is repaid.
+
+Q: What is foreclosure of a loan
+A: Foreclosure is the complete repayment of a loan before its scheduled end date.
+
+Q: What is prepayment
+A: Prepayment refers to partial repayment of the loan principal before the due date.
+
+Q: What is credit score
+A: A credit score is a numerical measure of an individual's creditworthiness.
+
+Q: How can credit score be improved
+A: Credit score improves through timely repayments, low credit utilization, and responsible borrowing.
+
+Q: What is bank reconciliation
+A: Bank reconciliation is the process of matching bank records with company or personal records.
+
+Q: What is nominee in banking
+A: A nominee is a person entitled to receive account proceeds after the account holder’s death.
+
+Q: What is cheque
+A: A cheque is a written instrument directing a bank to pay a specified amount.
+
+Q: What is demand draft
+A: A demand draft is a prepaid banking instrument guaranteeing payment.
+
+Q: What is NEFT
+A: National Electronic Funds Transfer allows electronic transfer of funds between banks.
+
+Q: What is RTGS
+A: Real Time Gross Settlement enables immediate high-value fund transfers.
+
+Q: What is IMPS
+A: Immediate Payment Service allows instant fund transfer 24x7.
+
+Q: What is banking fraud
+A: Banking fraud involves unauthorized or deceptive financial activities.
+
+Q: What is account freezing
+A: Account freezing restricts transactions due to compliance or legal reasons.
+
+Q: What is minimum balance
+A: Minimum balance is the required amount to maintain in an account.
+
+Q: What is service charge
+A: Service charge is a fee collected for banking services.
+
+Q: What is passbook
+A: A passbook records account transactions manually or electronically.
+
+Q: What is interest compounding
+A: Compounding calculates interest on both principal and accumulated interest.
+
+Q: What is inflation impact on savings
+A: Inflation reduces the real value of money over time.
+
+Q: What is bank merger
+A: A bank merger combines two or more banks into a single entity.
+
+Q: What is core banking
+A: Core banking enables customers to access services from any branch.
+
+Q: What is digital banking
+A: Digital banking provides financial services through electronic channels.
+
+Q: What is an insurance policy
+A: An insurance policy is a legal contract providing financial protection against specific risks.
+
+Q: What is insurance premium
+A: Premium is the amount paid periodically to keep insurance coverage active.
+
+Q: What is policyholder
+A: A policyholder is the individual who owns the insurance policy.
+
+Q: What is insurer
+A: An insurer is the company that provides insurance coverage.
+
+Q: What is sum assured
+A: Sum assured is the guaranteed amount payable under an insurance policy.
+
+Q: What is life insurance
+A: Life insurance provides financial security to beneficiaries after death.
+
+Q: What is term insurance
+A: Term insurance offers life coverage for a fixed term at affordable cost.
+
+Q: What is health insurance
+A: Health insurance covers medical and hospitalization expenses.
+
+Q: What is motor insurance
+A: Motor insurance protects vehicles against accidents theft and liabilities.
+
+Q: What is claim in insurance
+A: A claim is a request made to receive policy benefits.
+
+Q: What is deductible
+A: Deductible is the amount the insured pays before claim settlement.
+
+Q: What is policy renewal
+A: Policy renewal extends coverage after policy expiry.
+
+Q: What is grace period
+A: Grace period allows delayed premium payment without policy lapse.
+
+Q: What is policy lapse
+A: Policy lapse occurs when premiums are unpaid beyond grace period.
+
+Q: What is cashless treatment
+A: Cashless treatment allows hospitals to settle bills directly with insurers.
+
+Q: What is network hospital
+A: Network hospitals are partnered with insurers for cashless services.
+
+Q: What is no claim bonus
+A: No claim bonus rewards policyholders for not making claims.
+
+Q: What is rider in insurance
+A: A rider is an additional coverage option added to a policy.
+
+Q: What is reinsurance
+A: Reinsurance is insurance purchased by insurers to reduce risk.
+
+Q: What is underwriting
+A: Underwriting evaluates risk before issuing insurance.
+
+Q: What is insurance fraud
+A: Insurance fraud involves false claims or misrepresentation.
+
+Q: What is nominee in insurance
+A: A nominee receives policy benefits after the policyholder’s death.
+
+Q: What is surrender value
+A: Surrender value is the payout received on early policy termination.
+
+Q: What is maturity benefit
+A: Maturity benefit is the payout received at policy completion.
+
+Q: What is insurance coverage
+A: Insurance coverage defines the risks protected by the policy.
+
+Q: What is claim settlement ratio
+A: Claim settlement ratio measures insurer claim settlement performance.
+
+Q: What is insurance exclusion
+A: Exclusions are situations not covered under an insurance policy.
+
+Q: What is finance
+A: Finance involves managing money including investing saving borrowing and budgeting.
+
+Q: What is personal finance
+A: Personal finance focuses on managing individual financial activities.
+
+Q: What is budgeting
+A: Budgeting is planning income and expenses.
+
+Q: What is an investment
+A: Investment allocates money to assets expecting future returns.
+
+Q: What are stocks
+A: Stocks represent ownership shares in a company.
+
+Q: What are bonds
+A: Bonds are debt instruments offering fixed returns.
+
+Q: What is mutual fund
+A: Mutual fund pools money from investors to invest in diversified assets.
+
+Q: What is SIP
+A: SIP allows regular investments in mutual funds.
+
+Q: What is compound interest
+A: Compound interest earns interest on principal and accumulated interest.
+
+Q: What is simple interest
+A: Simple interest is calculated only on principal.
+
+Q: What is inflation
+A: Inflation increases prices reducing purchasing power.
+
+Q: What is diversification
+A: Diversification reduces risk by spreading investments.
+
+Q: What is liquidity
+A: Liquidity measures ease of converting assets into cash.
+
+Q: What is net worth
+A: Net worth equals assets minus liabilities.
+
+Q: What is financial planning
+A: Financial planning helps achieve short and long-term goals.
+
+Q: What is retirement planning
+A: Retirement planning ensures income after retirement.
+
+Q: What is tax planning
+A: Tax planning minimizes tax liability legally.
+
+Q: What is emergency fund
+A: Emergency fund covers unexpected expenses.
+
+Q: What is risk in finance
+A: Risk is uncertainty of returns or losses.
+
+Q: What is return on investment
+A: ROI measures investment profitability.
+
+Q: What is capital gain
+A: Capital gain is profit from asset sale.
+
+Q: What is financial literacy
+A: Financial literacy improves money management skills.
