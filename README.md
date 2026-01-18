@@ -58,7 +58,3 @@ A: Answer 1
 Q: Question 2
 A: Answer 2
 ```
-
-## Demo
-
-Suitable for hackathon demos due to speed and simplicity.
