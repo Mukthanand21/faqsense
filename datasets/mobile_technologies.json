@@ -1,0 +1,242 @@
+[
+  {
+    "question": "What are mobile technologies",
+    "answer": "Mobile technologies refer to the set of communication and computing technologies that enable portable devices such as smartphones tablets and wearable devices to operate wirelessly and provide digital services."
+  },
+  {
+    "question": "What is a mobile device",
+    "answer": "A mobile device is a portable electronic device designed for wireless communication computing and data processing using cellular or wireless networks."
+  },
+  {
+    "question": "What is a smartphone",
+    "answer": "A smartphone is a mobile device that combines cellular communication with advanced computing features such as internet access applications sensors and multimedia capabilities."
+  },
+  {
+    "question": "What is a feature phone",
+    "answer": "A feature phone is a basic mobile phone that supports voice calls text messaging and limited applications but lacks advanced computing features."
+  },
+  {
+    "question": "What is mobile computing",
+    "answer": "Mobile computing enables users to access data applications and digital services from portable devices regardless of physical location."
+  },
+  {
+    "question": "What is wireless communication",
+    "answer": "Wireless communication enables the transmission of data and voice without physical cables using radio frequency signals."
+  },
+  {
+    "question": "What is cellular technology",
+    "answer": "Cellular technology divides geographical areas into cells to provide wireless communication services using base stations and mobile networks."
+  },
+  {
+    "question": "What is GSM",
+    "answer": "GSM is a global digital communication standard that enables voice and data services for mobile users across multiple countries."
+  },
+  {
+    "question": "What is CDMA",
+    "answer": "CDMA is a wireless communication technology that allows multiple users to share the same frequency spectrum through coded signals."
+  },
+  {
+    "question": "What is LTE",
+    "answer": "LTE is a high-speed wireless broadband technology designed to provide faster data transfer and improved network performance."
+  },
+  {
+    "question": "What is 4G technology",
+    "answer": "4G technology delivers high-speed mobile internet access with improved latency reliability and multimedia support."
+  },
+  {
+    "question": "What is 5G technology",
+    "answer": "5G technology is the latest mobile network generation offering ultra-low latency extremely high data speeds and massive device connectivity."
+  },
+  {
+    "question": "What are mobile network generations",
+    "answer": "Mobile network generations include 2G 3G 4G and 5G each offering improved speed capacity and connectivity."
+  },
+  {
+    "question": "What is bandwidth",
+    "answer": "Bandwidth refers to the maximum amount of data that can be transmitted over a network connection within a given time period."
+  },
+  {
+    "question": "What is latency",
+    "answer": "Latency is the time delay between sending a data request and receiving the response over a network."
+  },
+  {
+    "question": "What is signal strength",
+    "answer": "Signal strength indicates the quality and reliability of a wireless network connection."
+  },
+  {
+    "question": "What is a SIM card",
+    "answer": "A SIM card stores subscriber identity information allowing a mobile device to connect to a cellular network."
+  },
+  {
+    "question": "What is eSIM",
+    "answer": "eSIM is an embedded digital SIM that eliminates the need for a physical SIM card."
+  },
+  {
+    "question": "What is dual SIM technology",
+    "answer": "Dual SIM technology allows a mobile device to operate with two mobile numbers simultaneously."
+  },
+  {
+    "question": "What is roaming",
+    "answer": "Roaming allows mobile users to access network services outside their home network coverage area."
+  },
+  {
+    "question": "What is mobile data",
+    "answer": "Mobile data enables internet access using cellular networks instead of fixed broadband connections."
+  },
+  {
+    "question": "What is WiFi",
+    "answer": "WiFi provides wireless internet access using local area networking technology."
+  },
+  {
+    "question": "What is Bluetooth",
+    "answer": "Bluetooth enables short-range wireless communication between devices such as phones headsets and wearables."
+  },
+  {
+    "question": "What is NFC",
+    "answer": "NFC allows secure short-range data exchange for payments identification and access control."
+  },
+  {
+    "question": "What is GPS",
+    "answer": "GPS enables precise location tracking using satellite-based positioning systems."
+  },
+  {
+    "question": "What is a mobile operating system",
+    "answer": "A mobile operating system manages device hardware software resources and user interaction."
+  },
+  {
+    "question": "What is Android",
+    "answer": "Android is an open-source mobile operating system developed by Google for smartphones and tablets."
+  },
+  {
+    "question": "What is iOS",
+    "answer": "iOS is a proprietary mobile operating system developed by Apple for iPhones and iPads."
+  },
+  {
+    "question": "What is a mobile application",
+    "answer": "A mobile application is software specifically designed to run on mobile devices."
+  },
+  {
+    "question": "What is a native mobile app",
+    "answer": "A native app is developed for a specific mobile platform using platform-specific programming languages."
+  },
+  {
+    "question": "What is a hybrid mobile app",
+    "answer": "A hybrid app combines web technologies with native mobile capabilities to run on multiple platforms."
+  },
+  {
+    "question": "What is a progressive web app",
+    "answer": "A progressive web app provides app-like functionality using web technologies and browsers."
+  },
+  {
+    "question": "What is mobile app development",
+    "answer": "Mobile app development is the process of designing building and deploying applications for mobile devices."
+  },
+  {
+    "question": "What is an SDK",
+    "answer": "An SDK is a collection of tools libraries and documentation used to develop mobile applications."
+  },
+  {
+    "question": "What is an API",
+    "answer": "An API enables communication between mobile applications and backend systems."
+  },
+  {
+    "question": "What is mobile UI",
+    "answer": "Mobile UI refers to the visual and interactive design of mobile application interfaces."
+  },
+  {
+    "question": "What is responsive design",
+    "answer": "Responsive design adapts user interfaces to different screen sizes and orientations."
+  },
+  {
+    "question": "What is touchscreen technology",
+    "answer": "Touchscreen technology allows users to interact with devices through touch gestures."
+  },
+  {
+    "question": "What are mobile sensors",
+    "answer": "Mobile sensors collect data such as motion location light and orientation to enable smart features."
+  },
+  {
+    "question": "What is an accelerometer",
+    "answer": "An accelerometer measures device movement and orientation changes."
+  },
+  {
+    "question": "What is a gyroscope",
+    "answer": "A gyroscope detects rotation and angular motion of the device."
+  },
+  {
+    "question": "What is a proximity sensor",
+    "answer": "A proximity sensor detects nearby objects to control screen and interaction behavior."
+  },
+  {
+    "question": "What is a mobile camera system",
+    "answer": "A mobile camera system enables photography and video recording using compact imaging hardware."
+  },
+  {
+    "question": "What is image processing in mobile",
+    "answer": "Image processing enhances photos and videos using software algorithms."
+  },
+  {
+    "question": "What is mobile security",
+    "answer": "Mobile security protects devices applications and data from unauthorized access and cyber threats."
+  },
+  {
+    "question": "What is biometric authentication",
+    "answer": "Biometric authentication verifies user identity using fingerprints facial recognition or iris scans."
+  },
+  {
+    "question": "What is mobile encryption",
+    "answer": "Mobile encryption secures stored and transmitted data using cryptographic techniques."
+  },
+  {
+    "question": "What is mobile malware",
+    "answer": "Mobile malware is malicious software designed to harm or exploit mobile devices."
+  },
+  {
+    "question": "What is mobile cloud computing",
+    "answer": "Mobile cloud computing offloads data processing and storage to cloud servers."
+  },
+  {
+    "question": "What is edge computing in mobile",
+    "answer": "Edge computing processes data closer to mobile devices to reduce latency."
+  },
+  {
+    "question": "What is mobile IoT",
+    "answer": "Mobile IoT connects smart devices using cellular networks for data exchange."
+  },
+  {
+    "question": "What is wearable technology",
+    "answer": "Wearable technology includes portable electronic devices worn on the body for health and communication."
+  },
+  {
+    "question": "What is a smartwatch",
+    "answer": "A smartwatch is a wearable device that provides notifications health tracking and connectivity."
+  },
+  {
+    "question": "What is mobile payment technology",
+    "answer": "Mobile payment technology enables digital transactions using smartphones and wireless communication."
+  },
+  {
+    "question": "What is a digital wallet",
+    "answer": "A digital wallet securely stores payment credentials for mobile transactions."
+  },
+  {
+    "question": "What is mobile banking",
+    "answer": "Mobile banking allows users to perform financial transactions through mobile applications."
+  },
+  {
+    "question": "What is mobile commerce",
+    "answer": "Mobile commerce involves buying and selling goods and services using mobile devices."
+  },
+  {
+    "question": "What is mobile device management",
+    "answer": "Mobile device management allows organizations to control secure and monitor mobile devices."
+  },
+  {
+    "question": "What is BYOD",
+    "answer": "BYOD allows employees to use personal mobile devices for work purposes under security policies."
+  },
+  {
+    "question": "What is the future of mobile technology",
+    "answer": "The future of mobile technology includes AI integration 6G networks immersive experiences and smart automation."
+  }
+]
