@@ -1,56 +1,112 @@
 import pandas as pd
 import json
-import os
 
 
-def load_faq_data(file_path):
+def load_faq_from_uploaded_file(uploaded_file):
     """
-    Load FAQ data from CSV, JSON, or TXT file and normalize to list of dicts with 'question' and 'answer'.
+    Load FAQ data from a Streamlit UploadedFile (CSV, JSON, or TXT)
+    and normalize to a list of dicts with keys: 'question', 'answer'.
     """
-    if not os.path.exists(file_path):
-        raise ValueError("File does not exist.")
 
-    file_ext = os.path.splitext(file_path)[1].lower()
+    filename = uploaded_file.name.lower()
 
-    if file_ext == ".csv":
-        df = pd.read_csv(file_path)
-        # Assume columns are 'question' and 'answer'
+    # ===============================
+    # CSV SUPPORT
+    # ===============================
+    if filename.endswith(".csv"):
+        df = pd.read_csv(uploaded_file)
+
+        # Normalize column names
+        df.columns = [c.lower().strip() for c in df.columns]
+
         if "question" not in df.columns or "answer" not in df.columns:
-            raise ValueError("CSV must have 'question' and 'answer' columns.")
-        faqs = df[["question", "answer"]].to_dict("records")
+            raise ValueError("CSV must contain 'question' and 'answer' columns.")
 
-    elif file_ext == ".json":
-        with open(file_path, "r") as f:
-            data = json.load(f)
-        if isinstance(data, list):
-            faqs = data
-        else:
-            raise ValueError(
-                "JSON must be a list of objects with 'question' and 'answer'."
-            )
-        # Validate each has question and answer
-        for item in faqs:
-            if "question" not in item or "answer" not in item:
-                raise ValueError("Each FAQ must have 'question' and 'answer'.")
+        faqs = df[["question", "answer"]].dropna().to_dict("records")
+        return faqs
 
-    elif file_ext == ".txt":
-        with open(file_path, "r") as f:
-            lines = f.readlines()
+    # ===============================
+    # JSON SUPPORT
+    # ===============================
+    elif filename.endswith(".json"):
+        try:
+            data = json.load(uploaded_file)
+        except json.JSONDecodeError:
+            raise ValueError("Invalid JSON file.")
+
+        if not isinstance(data, list):
+            raise ValueError("JSON must be a list of objects.")
+
         faqs = []
-        i = 0
-        while i < len(lines):
-            if lines[i].strip().startswith("Q:"):
-                question = lines[i].strip()[3:].strip()
-                i += 1
-                if i < len(lines) and lines[i].strip().startswith("A:"):
-                    answer = lines[i].strip()[3:].strip()
-                    faqs.append({"question": question, "answer": answer})
-                else:
-                    raise ValueError(
-                        "Invalid TXT format: Answer not found after question."
+        for item in data:
+            if (
+                isinstance(item, dict)
+                and "question" in item
+                and "answer" in item
+            ):
+                faqs.append(
+                    {
+                        "question": str(item["question"]).strip(),
+                        "answer": str(item["answer"]).strip(),
+                    }
+                )
+            else:
+                raise ValueError(
+                    "Each JSON object must contain 'question' and 'answer'."
+                )
+
+        return faqs
+
+    # ===============================
+    # TXT SUPPORT (Q:/A: FORMAT)
+    # ===============================
+    elif filename.endswith(".txt"):
+        text = uploaded_file.read().decode("utf-8").strip()
+        lines = text.splitlines()
+
+        faqs = []
+        question = None
+        answer_lines = []
+
+        for line in lines:
+            line = line.strip()
+
+            if line.startswith("Q:"):
+                # Save previous FAQ
+                if question and answer_lines:
+                    faqs.append(
+                        {
+                            "question": question,
+                            "answer": " ".join(answer_lines).strip(),
+                        }
                     )
-            i += 1
+                    answer_lines = []
+
+                question = line[2:].strip()
+
+            elif line.startswith("A:"):
+                answer_lines.append(line[2:].strip())
+
+            elif question and line:
+                # Multiline answer support
+                answer_lines.append(line)
+
+        # Add last FAQ
+        if question and answer_lines:
+            faqs.append(
+                {
+                    "question": question,
+                    "answer": " ".join(answer_lines).strip(),
+                }
+            )
+
+        if not faqs:
+            raise ValueError("TXT file contains no valid Q:/A: pairs.")
+
+        return faqs
+
+    # ===============================
+    # UNSUPPORTED FORMAT
+    # ===============================
     else:
         raise ValueError("Unsupported file format. Use CSV, JSON, or TXT.")
-
-    return faqs
